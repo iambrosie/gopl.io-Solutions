@@ -1,4 +1,4 @@
-// Exercise 1.5: Change the Lissajous programi's color palette to green on black, for added authenticity.
+// Exercise 1.5: Change the Lissajous program's color palette to green on black, for added authenticity.
 package main
 
 import (
